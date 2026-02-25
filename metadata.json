@@ -1,0 +1,5 @@
+{
+  "name": "GQ LAB v1",
+  "description": "An enterprise-grade employee health maintenance system based on Traditional Chinese Medicine (TCM). It features constitution testing, personalized diet and exercise plans, health logging, and community interaction.",
+  "requestFramePermissions": []
+}
